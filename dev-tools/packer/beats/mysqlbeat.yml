@@ -1,0 +1,4 @@
+beat_name: mysqlbeat
+beat_url: 'https://github.com/medcl'
+beat_repo: 'github.com/medcl'
+beat_description: Sends mysqlbeat metrics to Logstash or directly to Elasticsearch.
